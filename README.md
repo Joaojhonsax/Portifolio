@@ -1,3 +1,3 @@
 # portifolio
 
-https://joaojhonsax.github.io/portifolio/portifolio.html
+https://joaojhonsax.github.io/portifolio/index.html
